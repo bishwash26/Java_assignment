@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jsoup-1.13.1.jar"
+    ]
+}
